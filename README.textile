@@ -1,0 +1,1 @@
+Finds tweets containing a keyword that have an image attached.
